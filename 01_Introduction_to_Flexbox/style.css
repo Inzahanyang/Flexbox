@@ -1,0 +1,44 @@
+.box {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.box1 {
+  background-color: aqua;
+}
+.box2 {
+  background-color: blueviolet;
+}
+.box3 {
+  background-color: crimson;
+}
+.box4 {
+  background-color: darkgreen;
+}
+.box5 {
+  background-color: deeppink;
+}
+.box6 {
+  background-color: firebrick;
+}
+.box7 {
+  background-color: goldenrod;
+}
+.box8 {
+  background-color: hotpink;
+}
+.box9 {
+  background-color: indigo;
+}
+.box10 {
+  background-color: khaki;
+}
+
+.container {
+  display: flex;
+  border: 10px solid dodgerblue;
+  height: 100vh;
+}
