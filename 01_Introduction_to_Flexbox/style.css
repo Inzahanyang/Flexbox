@@ -39,6 +39,7 @@
 
 .container {
   display: flex;
-  border: 10px solid dodgerblue;
-  height: 100vh;
+  border: 10px solid goldenrod;
+  min-height: 100vh;
+  flex-direction: row;
 }
